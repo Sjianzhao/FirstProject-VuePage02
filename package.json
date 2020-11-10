@@ -16,7 +16,9 @@
     "element-ui": "^2.13.0",
     "moment": "^2.24.0",
     "serialport": "^8.0.7",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "vxe-table": "^2.9.26",
+    "xe-utils": "^2.8.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.2.0",
@@ -24,6 +26,7 @@
     "@vue/cli-service": "~4.2.0",
     "@vue/eslint-config-airbnb": "^5.0.2",
     "babel-eslint": "^10.0.3",
+    "babel-plugin-import": "^1.13.1",
     "cz-conventional-changelog": "^3.1.0",
     "electron": "6.0.0",
     "eslint": "^6.7.2",
